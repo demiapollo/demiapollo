@@ -26,11 +26,11 @@ I'm a full-stack developer with a background in marketing academia.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
 
-</div>
+<!-- </div>
 
 <div id="count" align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=demiapollo&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 
 <div id="header" align="center">
 
