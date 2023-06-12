@@ -27,7 +27,7 @@ I'm a full-stack developer with a background in marketing academia.
 </div>
 
 
-<div id="header" align="center">
+
 
 ## My GitHub Stats
 
@@ -37,13 +37,10 @@ I'm a full-stack developer with a background in marketing academia.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
 </div>
 
+<div id="header" align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent)](https://git.io/streak-stats)
+<div>
 
-## My Top Languages
-
-
-
-</div>
 
 
 <!-- <div id="badges" align="center">
