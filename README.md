@@ -31,10 +31,10 @@ I'm a full-stack developer with a background in marketing academia.
 
 ## My GitHub Stats
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=demiapollo&show_icons=true&theme=ADD_THEME_HERE&&include_all_commits=true" width="400" />
+<div align="center>
+<img src="https://github-readme-stats.vercel.app/api?username=demiapollo&show_icons=true&theme=ADD_THEME_HERE&&include_all_commits=true" width="400" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
 </div>
 
 <br>
