@@ -1,4 +1,11 @@
 
+Hello :wave:
+
+---
+
+### :man_technologist: About Me :
+
+I'm a full-stack developer with a background in marketing academia.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/apollodemirel/">
