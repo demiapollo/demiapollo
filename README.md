@@ -26,7 +26,7 @@ I'm a full-stack developer with a background in marketing academia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vs" width="40" height="40"/>
 </div>
 
-
+<br>
 
 
 ## My GitHub Stats
@@ -37,9 +37,10 @@ I'm a full-stack developer with a background in marketing academia.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
 </div>
 
-<div id="header" align="center">
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent)](https://git.io/streak-stats)
-<div>
+
 
 
 
