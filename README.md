@@ -6,8 +6,6 @@ Hello :wave:
 
 I'm a full-stack developer with a background in marketing academia.
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -23,10 +21,10 @@ I'm a full-stack developer with a background in marketing academia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/apollodemirel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
 
 </div>
 
