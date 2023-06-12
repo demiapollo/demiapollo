@@ -28,7 +28,6 @@ I'm a full-stack developer with a background in marketing academia.
 
 <br>
 
-
 ## My GitHub Stats
 
 <div align="center">
@@ -44,18 +43,3 @@ I'm a full-stack developer with a background in marketing academia.
 </div>
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent)](https://git.io/streak-stats) -->
-
-
-
-
-<!-- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/apollodemirel/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
-
-<!-- </div>
-
-<div id="count" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=demiapollo&style=flat-square&color=blue" alt=""/>
-</div> -->
