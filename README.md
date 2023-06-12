@@ -1,4 +1,6 @@
 
+<div id="header" align="center">
+
 ## My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=demiapollo&show_icons=true&theme=ADD_THEME_HERE&&include_all_commits=true" width="400">
@@ -10,4 +12,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=demiapollo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</div>
