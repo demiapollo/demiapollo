@@ -39,7 +39,11 @@ I'm a full-stack developer with a background in marketing academia.
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" />
+
+
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent)](https://git.io/streak-stats) -->
 
 
 
