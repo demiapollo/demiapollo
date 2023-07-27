@@ -34,10 +34,10 @@ I'm a full-stack developer with a background in marketing academia.
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=demiapollo&show_icons=true&theme=transparent" width="400" /> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
-</div>
+
 
 <!-- <br>  -->
 
-<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" />
 </div>
