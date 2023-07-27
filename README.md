@@ -30,7 +30,7 @@ I'm a full-stack developer with a background in marketing academia.
 
 ## My GitHub Stats
 
-<div style="display:flex; flex-direction: row; align-content: flex-end">
+<div style="display:flex; flex-direction: row; align-content: center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" />
 
