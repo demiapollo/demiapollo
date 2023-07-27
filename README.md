@@ -32,7 +32,7 @@ I'm a full-stack developer with a background in marketing academia.
 
 <div style="display:flex; flex-direction: row; align-content: space-around">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" style="margin-right= 10px" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" margin-right: 10px />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
 
