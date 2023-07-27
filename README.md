@@ -30,14 +30,10 @@ I'm a full-stack developer with a background in marketing academia.
 
 ## My GitHub Stats
 
-<div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=demiapollo&show_icons=true&theme=transparent" width="400" /> -->
+<div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
 
-
-<!-- <br>  -->
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" />
 </div>
