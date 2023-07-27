@@ -30,13 +30,11 @@ I'm a full-stack developer with a background in marketing academia.
 
 ## My GitHub Stats
 
-<div style="display:flex; flex-direction: row; align-content: space-around">
+<div style="display:flex; flex-direction: row; align-content: flex-end">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" />
 
-<div style="align-content: flex-end">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
 
-</div>
+
 </div>
