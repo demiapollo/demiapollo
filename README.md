@@ -4,7 +4,7 @@ Hello :wave:
 
 ### :man_technologist: About Me :
 
-I'm a full-stack developer with a background in marketing academia.
+I'm a full-stack developer with a background in marketing.
 
 ### :hammer_and_wrench: Languages and Tools :
 
