@@ -34,8 +34,6 @@ I'm a full-stack developer with a background in marketing.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=demiapollo&theme=transparent" />
 
-<p>" "</p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demiapollo&layout=compact&theme=ADD_THEME_HERE" />
 
 
